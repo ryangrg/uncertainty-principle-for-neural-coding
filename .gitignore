@@ -1,0 +1,13 @@
+# MATLAB generated files
+*.asv
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+
+# Simulink
+*.slxc
+slprj/
+
+# OS files
+.DS_Store
+Thumbs.db
